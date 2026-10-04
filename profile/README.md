@@ -30,6 +30,15 @@ first if you want to build a client or a machine. Read
 [Phosphor's plugin contract](https://github.com/openvalence/Phosphor/blob/main/docs/PLUGINS.md)
 if you want to add a control surface.
 
+## How it's built
+
+One person designs this and makes every decision; coding agents write most
+of the code under that direction. The rules they work to are in the repos:
+a written doctrine, a registry that owns every wire number, lint that fails
+the build, tests on every change, and a bench where firmware has to move a
+real motor before it counts as done. That's stated here so nobody has to
+guess.
+
 ## Credits
 
 The Advanced pattern generator in Nucleus and Phosphor comes from
