@@ -4,7 +4,7 @@ Open hardware and software for linear motion machines. One hub holds the
 machine's state, any number of clients stay in sync with it, and every part
 of the stack is here in the open.
 
-Website: https://openvalence.github.io
+Website: https://openvalence.org
 
 ## The parts
 
